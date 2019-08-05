@@ -1,0 +1,47 @@
+<!--
+
+    Copyright (C) 2015 FarmerSoft
+	
+-->	
+<ProceduresDB>
+    <Airport ICAOcode="LFLL">
+		<Star Name="MOU 5N" Runways="18L,18R,36L,36R">
+			<Star_Waypoint ID="1">
+				<Name>MOU</Name>
+				<Type>Normal</Type>
+				<Latitude>46.730669</Latitude>
+				<Longitude>3.607607</Longitude>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>OMANI</Name>
+				<Type>Normal</Type>
+				<Latitude>46.4666489</Latitude>
+				<Longitude>3.7482980</Longitude>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>LEPSI</Name>
+				<Type>Normal</Type>
+				<Latitude>46.122927</Latitude>
+				<Longitude>3.929848</Longitude>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>ROA</Name>
+				<Type>Normal</Type>
+				<Latitude>46.0733323</Latitude>
+				<Longitude>3.9863100</Longitude>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>DIRBA</Name>
+				<Type>Normal</Type>
+				<Latitude>46.01741</Latitude>
+				<Longitude>4.50937</Longitude>
+			</Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>TALAR</Name>
+				<Type>Normal</Type>
+				<Latitude>45.9582183</Latitude>
+				<Longitude>4.6029949</Longitude>
+			</Star_Waypoint>
+		</Star>
+	</Airport>
+</ProceduresDB>

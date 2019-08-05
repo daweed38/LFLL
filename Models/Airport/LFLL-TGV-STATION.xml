@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+	<path>LFLL-TGV-STATION.ac</path>
+	<animation>
+		<name>LFLL-TGV</name>
+		<object-name>LFLL-TGV-BACK-BODY</object-name>
+		<object-name>LFLL-TGV-BACK-CENTER</object-name>
+		<object-name>LFLL-TGV-BACK-CENTER-FACE</object-name>
+		<object-name>LFLL-TGV-BACK-CENTER-GLASS</object-name>
+		<object-name>LFLL-TGV-BACK-FACE</object-name>
+		<object-name>LFLL-TGV-BACK-FACE-GLASS</object-name>
+		<object-name>LFLL-TGV-BACK-FACE-SUPPORT</object-name>
+		<object-name>LFLL-TGV-BACK-ROOF-GLASS</object-name>
+		<object-name>LFLL-TGV-BACK-SIDE</object-name>
+		<object-name>LFLL-TGV-FRONT-FACE</object-name>
+		<object-name>LFLL-TGV-FRONT-GROUND</object-name>
+		<object-name>LFLL-TGV-ROOF-CENTER</object-name>
+		<object-name>LFLL-TGV-ROOF-GLASS</object-name>
+		<object-name>LFLL-TGV-ROOF-WINGS</object-name>
+		<object-name>LFLL-TGV-ROOF-WINGSLET</object-name>
+		<object-name>LFLL-TGV-SIDE-GLASS</object-name>
+		<object-name>LFLL-TGV-WINGS</object-name>
+		<object-name>LFLL-TGV-WINGS-GLASS</object-name>
+	</animation>
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>20000</max-m>
+	</animation>
+</PropertyList>
