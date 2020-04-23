@@ -2,7 +2,7 @@
 # SHARED OBJECT
 ####################
 # Fire Departement
-OBJECT_SHARED Models/Airport/Vehicules/Rosenbauer_TLF_5500.xml 5.08183213 45.72616970 236.7571 254.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_TLF_5500.ac 5.08183213 45.72616970 236.7571 254.9 0.0 -0.0
 # Comunication Hardware
 OBJECT_SHARED Models/Communications/vhf_direction_finder.xml 5.09148 45.70091 255.31 0
 OBJECT_SHARED Models/Communications/radio-medium.xml 5.07767 45.72634 214.89 0
